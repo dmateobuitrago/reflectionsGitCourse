@@ -1,0 +1,65 @@
+// First reflections
+
+How did
+ Diff helps me to find code mistakes between two files. It's easier to compare files like these rather than doing it manually or using cmd+F.
+ 
+ It was pretty easy:
+ 
+1) Open the Terminal (Utilities)
+2) Find the folder using 'cd' eg. cd Documentos
+3) Use 'diff -u' eg. diff -u old_file.html new_file.html
+
+===== How could having easy access to the entire history
+of a file make you a more efficient programmer in the long term? =====
+
+Having access to the entire history of a file makes me a more 
+efficient programmer because I can check my files over an over, 
+look when I made mistakes and when I did good. Also it would
+help me to reuse code.
+
+===== What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does? ======
+
+I think that the pros of having manually creating a commit,
+instead of doing it automatically is that you make the calls
+when to create a commit depending on the complexity of what
+you did.
+
+In the other hand, the cons are that you may forget to create
+a commit, so the automatical save could help you, but also 
+you can end with a lot of insignificant commits.
+
+===== Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?=========
+
+I think that Git allows to save multiple files in one commit 
+because a lot of projects require using different files to 
+accomplish what one wants. So in that case it'll be easier to
+control the changes one had made.
+
+========= How can you use the commands git log and
+git diff to view the history of files?========
+
+You can use git log to see all the project changes and
+use git diff to compare each commit with an other.
+
+======= How might using version control make you more
+confident to make changes that could break something?=====
+
+Using version control will make me more confident to make
+changes because I'd know there is an easy way to go back
+when my project was running well or it will be easier to 
+identify where is the problem. So I will not worry about 
+messing it up because it actually won't be messed, just 
+with a few commands my project will get back to normal.
+
+
+========= Now that you have your workspace set up,
+what do you want to try using Git for? =========
+
+I'd like to use Git for keeping track of my projects,
+saving them in a better way and most of all being confident
+on working on my projects without fearing of messing them up. 
+Also I think it's a good way of finding mistakes one does.

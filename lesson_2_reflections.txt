@@ -1,0 +1,9 @@
+// Second lesson reflections
+
+=======What happens when you initialize a repository?
+Why do you need to do it?====================
+
+When I initialize a repository a '.git' file is created
+inside the repository. It is needed to start tracking
+the repository files, in order to commit do other stuff
+that git allows.
