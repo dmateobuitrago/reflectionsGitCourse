@@ -7,3 +7,10 @@ When I initialize a repository a '.git' file is created
 inside the repository. It is needed to start tracking
 the repository files, in order to commit do other stuff
 that git allows.
+
+====== How is the staging area different from the working
+directory and the repository? What value do you think it offers?
+===================
+
+I think the stagging area is like a middle point where you
+can choose whether to add or to remove files to your commit.
