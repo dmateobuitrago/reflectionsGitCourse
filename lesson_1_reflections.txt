@@ -1,4 +1,4 @@
-// First reflections
+// First lesson reflections GIT
 
 How did
  Diff helps me to find code mistakes between two files. It's easier to compare files like these rather than doing it manually or using cmd+F.
