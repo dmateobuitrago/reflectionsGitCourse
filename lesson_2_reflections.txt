@@ -31,3 +31,10 @@ sure that will work, some experiment. Or if you want to make an
 other language version using branches would be a good idea.
 Branches are helpful because you can try some new things or do
 some relevant changes without risking the master history.
+
+===== How do the diagrams help you visualize the branch structure?
+=============
+
+Seeing this kind of structures visually always help to understand
+the big picture of my project commits and how to get to the
+commit I want to get.
