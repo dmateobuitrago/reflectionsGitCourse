@@ -14,3 +14,20 @@ directory and the repository? What value do you think it offers?
 
 I think the stagging area is like a middle point where you
 can choose whether to add or to remove files to your commit.
+
+====== How can you use the staging area to make sure
+you have one commit per logical change? ======
+
+The stagging area could be used to compare the files 
+that are going to be commited, so you can be sure that
+the you are going to commit the changes you are intended
+to change, no more, no less.
+
+===== What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?===
+
+Some situations can be when you want to try something you are not 
+sure that will work, some experiment. Or if you want to make an 
+other language version using branches would be a good idea.
+Branches are helpful because you can try some new things or do
+some relevant changes without risking the master history.
