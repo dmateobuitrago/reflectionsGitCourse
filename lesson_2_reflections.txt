@@ -45,3 +45,9 @@ Why do we represent it in the diagram the way we do? ============
 The result of merging two branches together is a set of files with
 both of the features included in both branches. We represent it in the
 diagram in order to understand where will be the merged commits located.
+
+====== What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually? ================
+
+The pros is the efficiency of the process. The con is that maybe is
+going to be tricky when you find conflicts.
