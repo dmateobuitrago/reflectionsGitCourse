@@ -3,3 +3,14 @@ rather than keeping all your work local?===============
 
 When I'm working on an other computer or when I'm working
 in someone else project as a contributor.
+
+=========Why might you want to always pull changes manually
+rather than having Git automatically stay up-to-date with
+your remote repository? =================================
+
+You might want to always pull changes manually because thats
+the only way you know what changes you are pulling. If you let 
+Git to pull the changes automatically your project could be
+changed without prior notice and it could affect the work you
+are doing. So is better to understand what changes are you pulling
+and pull them when you think is proper.
