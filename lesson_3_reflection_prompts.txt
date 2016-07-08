@@ -33,4 +33,10 @@ I'd rather push them to my own online repository and let others to
 do the same. In this way I also can link the original creator to 
 the project.
 
+===========What is the benefit of having a copy of the last
+known state of the remote stored locally?==================
+
+It's easier to compare to your local changes and also you won't
+depend on having an internet conection.
+
 
