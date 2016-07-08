@@ -14,3 +14,23 @@ Git to pull the changes automatically your project could be
 changed without prior notice and it could affect the work you
 are doing. So is better to understand what changes are you pulling
 and pull them when you think is proper.
+
+======Describe the differences between forks, clones, and branches.
+When would you use one instead of another?=====================
+
+- Branches: I would use them when I need to start a new feature in 
+my project, or try something that I'm not sure it will work, or
+to work on a different version of my project, or to fix something.
+
+- Clone: I would use Clone when I want to work on a project that is
+shared online and I want to work on it in my computer, weather is
+public or some friend handle it to me. Also I suppose that I can
+clone repositories along my computer.
+
+- Forks: I would use Fork when I want to work in a project that I
+found online but I don't want to push my commits to that repository, 
+I'd rather push them to my own online repository and let others to 
+do the same. In this way I also can link the original creator to 
+the project.
+
+
