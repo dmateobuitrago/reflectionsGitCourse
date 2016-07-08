@@ -39,4 +39,12 @@ known state of the remote stored locally?==================
 It's easier to compare to your local changes and also you won't
 depend on having an internet conection.
 
+==========How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?================
+
+Maybe I would collaborate via email, but it will be harder to work
+in the same file and then merging our work. Maybe some kind of
+chat will be an easier way to communicate with my partners but
+not so much to collaborate on a project.
+
 
