@@ -47,4 +47,15 @@ in the same file and then merging our work. Maybe some kind of
 chat will be an easier way to communicate with my partners but
 not so much to collaborate on a project.
 
+===========When would you want to make changes in a separate branch
+rather than directly in master? What benefits does each approach have?
+
+Only if it's a personal project I would work on master, for the other
+scenarios I would work on a separate branch, just to not mess the 
+master branch. The advantage to work in the master branch is that
+you don't need to merge anything, so is a straight forward process, but 
+working on branches is the one of the points of version control, so 
+you can work on features, show them and get feedback without interering
+with the core branch of the project.
+
 
